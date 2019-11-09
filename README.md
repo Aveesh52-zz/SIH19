@@ -4,7 +4,7 @@
 ## Complex
 
 ### iVault 
-[![](https://img.shields.io/badge/anuditnagar-assetreg-blue.svg?link=https://github.com/anuditnagar&link=https://github.com/anuditnagar/assetreg)](https://github.com/anuditnagar/assetreg)
+
  - FIS SOLUTIONS(INDIA)
  - Finance
 
@@ -18,7 +18,6 @@
 > manipulated but can be extended
 
 ### Land Real estate Registration 
-[![](https://img.shields.io/badge/anuditnagar-landreg-blue.svg?link=https://github.com/anuditnagar&link=https://github.com/anuditnagar/landreg)](https://github.com/anuditnagar/landreg)
 
  - FIS SOLUTIONS(INDIA)
  - Web App development
@@ -30,7 +29,6 @@
 > all the Benami transactions related to Land/Real estate deals.
 
 ### Track and Trace Supply Chain
-[![](https://img.shields.io/badge/anuditnagar-supplychain-blue.svg?link=https://github.com/anuditnagar&link=https://github.com/anuditnagar/supplychain)](https://github.com/anuditnagar/supplychain)
 
  - Hindustan Unilever Ltd
  - Security & Surveillance
